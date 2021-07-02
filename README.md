@@ -31,4 +31,3 @@ mvn package
 ## 感谢
 
 本插件的思路和外观借用了[chunked-coding-converter](https://github.com/c0ny1/chunked-coding-converter)插件，这是一款很优秀的插件，向它的作者c0ny1学习。
-
